@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Actor');
+
+.bluetext{
+  color:blue;
+}
+.yellowbg{
+  background-color:#F6CC00;
+}
+.p1{
+  width:200px;
+  height:auto;
+  background-color:yellow;
+  font-family:Actor;
+}
+.p2{
+  width:50%;
+  background-color:orange;
+  font-family:Arial;
+}
